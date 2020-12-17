@@ -1,22 +1,4 @@
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-
-<!-- PROJECT LOGO -->
+<!-- LOGO -->
 <p align="center">
   <a href="#">
     <img src="https://i2.wp.com/hackingracism.mit.edu/wp-content/uploads/2020/09/MIT-logo-with-spelling-office-red-gray-design1.png?fit=721%2C161&ssl=1" height="80" alt="Logo">
@@ -44,6 +26,12 @@
     </li>
     <li>
       <a href="#course-instructor">Course Instructors</a>
+      <ul>
+        <li><a href="#professor-leslie-pack-kaelbling">Professor Leslie Pack Kaelbling</a></li>
+        <li><a href="#professor-tomas-lozano-perez">Professor Tomas Lozano-Perez</a></li>
+        <li><a href="#professor-isaac-l-chuang">Professor Isaac L. Chuang</a></li>
+        <li><a href="#professor-duane-s-boning">Professor Duane S. Boning</a></li>
+      </ul>
     </li>
     <li>
       <a href="#format-of-the-course">Format of The Course</a>
@@ -57,6 +45,7 @@
   </ol>
 </details>
 
+<!-- CONTENTS -->
 ## About The Course
 
 <p align="center">
