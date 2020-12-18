@@ -93,9 +93,9 @@ This course includes lectures, lecture notes, exercises, labs, and homework prob
 
 ## Recommended Prerequisites
 
-* [Computer Programming with Python](https://www.python.org)
-* [Calculus](http://www-math.mit.edu/~djk/calculus_beginners/)
-* [Linear Algebra](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+18.06SC+2T2019/about)
+* [Computer Programming with Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
+* [Calculus](https://ocw.mit.edu/courses/mathematics/18-03sc-differential-equations-fall-2011/)
+* [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
 
 ## License Type
 
