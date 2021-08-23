@@ -75,13 +75,13 @@ Leslie Pack Kaelbling is Professor of Computer Science and Engineering at MIT. S
 
 Tomas Lozano-Perez is currently the School of Engineering Professor in Teaching Excellence at the Massachusetts Institute of Technology (MIT), USA, where he is a member of the Computer Science and Artificial Intelligence Laboratory. He has been Associate Director of the Artificial Intelligence Laboratory and Associate Head for Computer Science of MIT's Department of Electrical Engineering and Computer Science.
 
-<img align="left" width="150" height="150" alt="Isaac L. Chuang" src="https://s1.imghub.io/bU6fd.jpg"/>
+<img align="left" width="150" height="150" alt="Isaac L. Chuang" src="https://www.edn.com/wp-content/uploads/media-1079033-chuang-isaac.jpg"/>
 
 ### Professor Isaac L. Chuang
 
 Isaac Chuang is Senior Associate Dean of Digital Learning, and Professor of Electrical Engineering & Computer Science, and Professor of Physics, at the Massachusetts Institute of Technology. He is associate director of the MIT Office of Digital Learning, and leads the quanta research group at the Center for Ultracold Atoms, in the MIT Research Laboratory of Electronics.
 
-<img align="left" width="150" height="150" alt="Duane S. Boning" src="https://www-mtl.mit.edu/wpmu/researchgroupsboning/files/2019/02/duane_boning-300x300.jpg"/>
+<img align="left" width="150" height="150" alt="Duane S. Boning" src="https://boning.mit.edu/wp-content/uploads/2019/02/duane_boning-300x300.jpg"/>
 
 ### Professor Duane S. Boning
 
