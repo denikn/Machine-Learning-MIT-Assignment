@@ -1,7 +1,7 @@
 <!-- LOGO -->
 <p align="center">
   <a href="#">
-    <img src="https://i2.wp.com/hackingracism.mit.edu/wp-content/uploads/2020/09/MIT-logo-with-spelling-office-red-gray-design1.png?fit=721%2C161&ssl=1" height="80" alt="Logo">
+    <img src="MITx - 6.036/Massachusetts_Institut_of_Technology.png" height="80" alt="Logo">
   </a>
 
   <h3 align="center">Introduction to Machine Learning</h3>
@@ -50,7 +50,7 @@
 
 <p align="center">
   <a href="https://community-cdn-digitalocean-com.global.ssl.fastly.net/variants/fR1fwLvJDeYDMNenxu3XokLs/035575f2985fe451d86e717d73691e533a1a00545d7230900ed786341dc3c882">
-    <img src="https://s1.imghub.io/bRvO1.png" alt="Machine Learning">
+    <img src="MITx - 6.036/Introduction_to_Machine_Learning.jpg" alt="Machine Learning">
   </a>
 </p>
 
@@ -59,29 +59,29 @@ This course introduces principles, algorithms, and applications of machine learn
 ## Learning Objective
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* Understand the formulation of well-specified machine learning problems
+* Understand the formulation of well-specified machine learning problems.
 * Learn how to perform supervised and reinforcement learning, with images and temporal sequences.
 
 ## Course Instructors
-<img align="left" width="150" height="150" alt="Leslie Kaelbling" src="https://www.eecs.mit.edu/sites/default/files/person-photos/kaelbling_0.jpg"/>
+<img align="left" width="150" height="150" alt="Leslie Kaelbling" src="MITx - 6.036/Professor_Leslie_Pack_Kaelbling.jpg"/>
 
 ### Professor Leslie Pack Kaelbling
 
 Leslie Pack Kaelbling is Professor of Computer Science and Engineering at MIT. She has previously held positions at Brown University, the Artificial Intelligence Center of SRI International, and at Teleos Research. In 2000, she founded the Journal of Machine Learning Research, a high-quality journal that is both freely available electronically as well as published in archival form; she currently serves as editor-in-chief.
 
-<img align="left" width="150" height="150" alt="Tomas Lozano-Perez" src="https://mitibmwatsonailab.mit.edu/wp-content/uploads/2020/04/Lozano-Perez-MIT-Image.jpeg"/>
+<img align="left" width="150" height="150" alt="Tomas Lozano-Perez" src="MITx - 6.036/Professor_Tomas_Lozano_Perez.jpg"/>
 
 ### Professor Tomas Lozano-Perez
 
 Tomas Lozano-Perez is currently the School of Engineering Professor in Teaching Excellence at the Massachusetts Institute of Technology (MIT), USA, where he is a member of the Computer Science and Artificial Intelligence Laboratory. He has been Associate Director of the Artificial Intelligence Laboratory and Associate Head for Computer Science of MIT's Department of Electrical Engineering and Computer Science.
 
-<img align="left" width="150" height="150" alt="Isaac L. Chuang" src="https://www.edn.com/wp-content/uploads/media-1079033-chuang-isaac.jpg"/>
+<img align="left" width="150" height="150" alt="Isaac L. Chuang" src="MITx - 6.036/Professor_Isaac_L_Chuang.jpg"/>
 
 ### Professor Isaac L. Chuang
 
 Isaac Chuang is Senior Associate Dean of Digital Learning, and Professor of Electrical Engineering & Computer Science, and Professor of Physics, at the Massachusetts Institute of Technology. He is associate director of the MIT Office of Digital Learning, and leads the quanta research group at the Center for Ultracold Atoms, in the MIT Research Laboratory of Electronics.
 
-<img align="left" width="150" height="150" alt="Duane S. Boning" src="https://boning.mit.edu/wp-content/uploads/2019/02/duane_boning-300x300.jpg"/>
+<img align="left" width="150" height="150" alt="Duane S. Boning" src="MITx - 6.036/Professor_Duane_S_Boning.jpg"/>
 
 ### Professor Duane S. Boning
 
@@ -99,4 +99,4 @@ This course includes lectures, lecture notes, exercises, labs, and homework prob
 
 ## License Type
 
-Unless otherwise indicated, all content is © All Rights Reserved by the course instructor(s)
+Unless otherwise indicated, all content is © All Rights Reserved by the course instructor(s).
