@@ -59,7 +59,7 @@ This course introduces principles, algorithms, and applications of machine learn
 ## Learning Objective
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* Understand the formulation of well-specified machine learning problems
+* Understand the formulation of well-specified machine learning problems.
 * Learn how to perform supervised and reinforcement learning, with images and temporal sequences.
 
 ## Course Instructors
@@ -99,4 +99,4 @@ This course includes lectures, lecture notes, exercises, labs, and homework prob
 
 ## License Type
 
-Unless otherwise indicated, all content is © All Rights Reserved by the course instructor(s)
+Unless otherwise indicated, all content is © All Rights Reserved by the course instructor(s).
